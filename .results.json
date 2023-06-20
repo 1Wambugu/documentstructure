@@ -1,0 +1,144 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 7,
+    "passes": 7,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-06-20T14:39:55.932Z",
+    "end": "2023-06-20T14:39:56.047Z",
+    "duration": 115
+  },
+  "tests": [
+    {
+      "title": "has a DOCTYPE tag",
+      "fullTitle": "index.html valid document structure has a DOCTYPE tag",
+      "file": "/home/martin/documentstructure/test/index.html.test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has opening and closing HTML tags",
+      "fullTitle": "index.html valid document structure has opening and closing HTML tags",
+      "file": "/home/martin/documentstructure/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a language attribute in the <html> tag",
+      "fullTitle": "index.html valid document structure has a language attribute in the <html> tag",
+      "file": "/home/martin/documentstructure/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has <head> and <body> tags nested in the <html> tag",
+      "fullTitle": "index.html valid document structure has <head> and <body> tags nested in the <html> tag",
+      "file": "/home/martin/documentstructure/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a <link> tag that links to an external stylesheet",
+      "fullTitle": "index.html valid <head> structure has a <link> tag that links to an external stylesheet",
+      "file": "/home/martin/documentstructure/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a <title> tag to enclose the site title",
+      "fullTitle": "index.html valid <head> structure has a <title> tag to enclose the site title",
+      "file": "/home/martin/documentstructure/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a valid HTML structure",
+      "fullTitle": "index.html valid html has a valid HTML structure",
+      "file": "/home/martin/documentstructure/test/index.html.test.js",
+      "duration": 105,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "has a DOCTYPE tag",
+      "fullTitle": "index.html valid document structure has a DOCTYPE tag",
+      "file": "/home/martin/documentstructure/test/index.html.test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has opening and closing HTML tags",
+      "fullTitle": "index.html valid document structure has opening and closing HTML tags",
+      "file": "/home/martin/documentstructure/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a language attribute in the <html> tag",
+      "fullTitle": "index.html valid document structure has a language attribute in the <html> tag",
+      "file": "/home/martin/documentstructure/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has <head> and <body> tags nested in the <html> tag",
+      "fullTitle": "index.html valid document structure has <head> and <body> tags nested in the <html> tag",
+      "file": "/home/martin/documentstructure/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a <link> tag that links to an external stylesheet",
+      "fullTitle": "index.html valid <head> structure has a <link> tag that links to an external stylesheet",
+      "file": "/home/martin/documentstructure/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a <title> tag to enclose the site title",
+      "fullTitle": "index.html valid <head> structure has a <title> tag to enclose the site title",
+      "file": "/home/martin/documentstructure/test/index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a valid HTML structure",
+      "fullTitle": "index.html valid html has a valid HTML structure",
+      "file": "/home/martin/documentstructure/test/index.html.test.js",
+      "duration": 105,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    }
+  ]
+}
